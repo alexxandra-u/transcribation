@@ -1,2 +1,2 @@
 # transcribation
-mini-project for video transcribation and diarization using open-sourse networks
+Mini-project for video transcribation and diarization using open-sourse networks
